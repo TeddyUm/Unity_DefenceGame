@@ -8,3 +8,5 @@ This is for defence game practice
 - Enemy hit and destroy function
 - Construct tower (Using money)
 - Game end
+
+<img src="https://github.com/TeddyUm/Unity_DefenceGame/blob/main/1676921635937.jpg" width="600" height="400">
